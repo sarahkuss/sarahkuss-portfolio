@@ -5,10 +5,10 @@ export default function Intro () {
     <main>
       <Container>
         <Row>
-
         <Col></Col>
         <Col>
           <h1>Hi! I'm Sarah</h1>
+          <p>I am a software engineer located in South Florida.</p>
         </Col>
         </Row>
       </Container>
