@@ -1,6 +1,7 @@
 
 import Intro from './components/intro/Intro';
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css"
+import '../src/styles/App.scss';
 
 function App() {
   return (
