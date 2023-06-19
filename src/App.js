@@ -1,13 +1,15 @@
-
-import Intro from './components/intro/Intro';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
 import "bootstrap/dist/css/bootstrap.min.css"
 import '../src/styles/App.scss';
 
 function App() {
   return (
-    <>
-    <Intro />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Home/>} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
