@@ -1,0 +1,25 @@
+.my-image{
+border-radius: 20px;
+height: 500px;
+}
+
+.intro-cont{
+  padding-top: 30px;
+}
+
+.intro-row{
+  display: flex;
+  justify-content: center;
+}
+
+.image-col{
+  display: flex;
+  justify-content: center;
+}
+.text-col{
+  display: flex;
+  // justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
