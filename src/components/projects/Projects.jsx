@@ -5,7 +5,7 @@ export default function Projects () {
     <>
     <Container>
       <Row>
-        <Card></Card>
+        {/* <Card></Card> */}
       </Row>
     </Container>
     </>
