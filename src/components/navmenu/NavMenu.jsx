@@ -9,7 +9,7 @@ export default function NavMenu () {
         <Navbar.Toggle />
         <Navbar.Collapse>
           <Nav>
-
+            {/* <Nav.Item>Projects</Nav.Item> */}
           </Nav>
         </Navbar.Collapse>
       </Container>

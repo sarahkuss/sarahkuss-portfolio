@@ -2,16 +2,18 @@
   {
     "id": 1,
     "title": "Conservation Connect",
-    "content": "",
+    "content": "Conservation Connect showcases lesser-known conservation organizations.",
     "website": "conservationconnect.net",
+    "tech": "React, Express, MongoDB, Bootstrap",
     "cover": ""
   },
 
   {
     "id": 2,
     "title": "Mythical Buddies",
-    "content": "",
+    "content": "NFT built by women, for women. Profits from minting go to creating scholarships for women looking to get into tech.",
     "website": "",
+    "tech": "React, Typescript, Solidity, GSAP",
     "cover": ""
   },
   {
