@@ -7,7 +7,7 @@ export default function Projects () {
   
   return(
     <>
-    <Container>
+    <Container fluid>
       <Row>
         {portfolio.map((element) => {
           return !element
