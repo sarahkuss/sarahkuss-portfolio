@@ -77,14 +77,14 @@
   {
     "id": 11,
     "title": "Lunch Spot",
-    "content": "",
+    "content": "React Native app connected to API with restaurants local to Boca Raton",
     "website": "",
     "cover": ""
   },
   {
     "id": 12,
     "title": "Tribute Page",
-    "content": "",
+    "content": "Tribute Page to my mom, built with React and styled with Bootstrap",
     "website": "",
     "cover": ""
   },
