@@ -11,9 +11,8 @@ export default function Intro () {
         <Col sm={12} md={6} className="text-col">
           <h1>Hi! I'm Sarah Kuss</h1>
           <p>I am a Full Stack Software Engineer located in South Florida. </p>
-          <p>I am former zookeeper who decided to completely change careers and become a part of the tech industry.
-            Although zookeeping was an incredible, one-of-a-kind job, I reached a point where I realized I was no longer learning.
-            I was falling behind in the modern world and lost sight of my passion- conservation. That's when I realized I could have the best of both worlds. My goal is to connect people with conservation through technology! 
+          <p>
+            Always learning, I strive to stay up-to-date on the latest technological trends and advancements. I am currently intering as a Web3 Software Engineer, working on a women-led NFT that raises money for scholarships that go to women pursuing tech. 
           </p>
           <p>
             Technology advances every single day and there is always something new to learn. <br /> 
